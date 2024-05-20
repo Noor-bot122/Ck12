@@ -7,13 +7,13 @@
   "OPERATORNAME": "Ratul_Hassan",
   "OPERATORID": "100017985245260",
   "OPERATORLINK": "https://www.facebook.com/MrTomXxX",
-  "BOTNAME": "mtx",
-  "PREFIX": ".",
+  "BOTNAME": "hi",
+  "PREFIX": "/",
   "OPERATOR": [
     "100017985245260"
   ],
   "ADMINBOT": [
-    "100017985245260"
+    "100000350435589"
   ],
   "APPROVED": ["100017985245260"],
   "disabledcmds": [],
